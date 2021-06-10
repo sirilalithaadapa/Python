@@ -3,9 +3,6 @@
   
 so i have been learning Python :: Basic > Advance ....
 
-It will be starting from June 6th on Sunday 
-
-
 anybody have intrest can feel free to contact me . [Here](https://github.com/sirilalithaadapa/Python/discussions)
 
 ## On Sunday 
